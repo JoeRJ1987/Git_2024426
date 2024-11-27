@@ -10,10 +10,10 @@ package git_2024426;
  */
 public class Git_2024426 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
+        
+        // Simple Output
         System.out.println("Joao Goes - 2024426");
     }
     
